@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoreBuild Java program hero vs villan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoreBuild_Java_program_hero_vs_villan_jar</output-path>
+    <root id="archive" name="CoreBuild Java program hero vs villan.jar">
+      <element id="module-output" name="CoreBuild Java program hero vs villan" />
+    </root>
+  </artifact>
+</component>
